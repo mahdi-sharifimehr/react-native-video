@@ -1,0 +1,6 @@
+1.copy 3 classes to android-exoplayer in com.brentvatne.exoplayer
+2.comment line 13 in DataSourceUtil //import com.google.android.exoplayer2.upstream.DefaultDataSourceFactory;
+
+note: changed code in line 73 to 85 FileDtaSource class
+
+rename android-exoplayer folder to android and rename android folder to android-
